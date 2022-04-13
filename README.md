@@ -2,7 +2,7 @@
 Nagios plugin for checking storage capacity on Buffalo TeraStations via SNMP.
 
 Available on the [Nagios Exchange](https://exchange.nagios.org) at the following link:  
-[https://exchange.nagios.org/directory/Plugins/Hardware/Storage-Systems/SAN-and-NAS/Check-TeraStation-Storage/details](https://exchange.nagios.org/directory/Plugins/Hardware/Storage-Systems/SAN-and-NAS/Check-TeraStation-Storage/details)
+<https://exchange.nagios.org/directory/Plugins/Hardware/Storage-Systems/SAN-and-NAS/Check-TeraStation-Storage/details>
 
 ## V0.2
 * Updated to use more accurate vendor specific OIDs.
@@ -34,5 +34,5 @@ command_name check_terastation_storage
 * This plugin requires php5-snmp to be installed.
 
 ## Credits
-[Reviewed and edited by Joshua K Roberson](https://github.com/jroberson)
+Reviewed and edited by [Joshua K Roberson](https://github.com/jroberson)
 
